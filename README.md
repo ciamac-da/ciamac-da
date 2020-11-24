@@ -37,7 +37,6 @@
 <br />
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ciamac-da)](https://github.com/ciamac-da/github-readme-stats)
 
 
 [website]: https://ciamacdavoudi.com/
