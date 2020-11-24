@@ -40,6 +40,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ciamac-da&theme=chartreuse-dark&show_icons=true)](https://github.com/ciamac-da/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciamac-da)](https://github.com/ciamac-da/github-readme-stats)
 
 
 [website]: https://ciamacdavoudi.com/
