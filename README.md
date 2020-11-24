@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-ciamac da.vercel.app/api/spotify-playing" alt="ciamac da Spotify Playing" width="350" />](https://open.spotify.com/playlist/2C5oZjXRuUlev3BMR6obul)
+[<img src="https://now-playing-rogerwaters.vercel.app/api/spotify-playing" alt="ciamac da Spotify Playing" width="350" />](https://open.spotify.com/playlist/2C5oZjXRuUlev3BMR6obul)
 
 ### Connect with me:
 
