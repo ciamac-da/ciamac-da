@@ -37,12 +37,10 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
-<details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Cia's GitHub Stats" src="https://github-readme-stats.ciamac-da.vercel.app/api?username=ciamac-da&show_icons=true&hide_border=true" />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ciamac-da)](https://github.com/ciamac-da/github-readme-stats)
 
-</details>
 
 
 [website]: https://ciamacdavoudi.com/
