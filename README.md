@@ -17,6 +17,8 @@
 [<img align="left" alt="ciamac-da | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="ciamac-da | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ciamac-da | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ciamac-da | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
+
 
 <br />
 
@@ -44,6 +46,7 @@
 [twitter]: https://twitter.com/Ciamac12
 [youtube]: https://www.youtube.com/channel/UCZKeZtSQ4vmVTbtxnk7sALw
 [linkedin]: https://www.linkedin.com/in/ing-ciamac-davoudi-0a57a31a2/
+[xing]: https://www.xing.com/profile/Ciamac_Davoudi/cv
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
