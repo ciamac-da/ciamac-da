@@ -8,35 +8,26 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ciamac12?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2ciamac-da&screen_name=ciamac12)
 
 &nbsp;
+<br>
 
 
-### Spotify Playing 🎧 🤘 🎸 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ciamac da Spotify Playing" width="350" />](https://open.spotify.com/playlist/2soo5JkU0WT38wLul4ne0Y)
-
-
-&nbsp;
-
-
-
+### Streak Stats
 <p align="center">
     <a href="https://github.com/ciamac-da/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ciamac-da&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-
+<br>
 &nbsp;
 
 ### Connect with me:
-<p align="center">
 [<img align="left" alt="ciamacdavoudi.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ciamac-da | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ciamac-da | Xing" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
 [<img align="left" alt="ciamac-da | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ciamac-da | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-</p>
 
-
+<br>
 &nbsp;
 
 
@@ -73,13 +64,17 @@
 [<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][webdevplaylist]
 [<img align="left" alt="TailwindCSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />]
 
+<br>
 &nbsp;
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ciamac-da&theme=chartreuse-dark&show_icons=true)](https://github.com/ciamac-da/github-readme-stats)
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciamac-da&theme=chartreuse-dark&show_icons=true)](https://github.com/ciamac-da/github-readme-stats)
+<br>
 
-
+![Snake animation](https://github.com/ciamac-da/ciamac-da/blob/output/github-contribution-grid-snake.svg)
+<br>
 
 [website]: https://ciamacdavoudi.com/
 [twitter]: https://twitter.com/Ciamac12
@@ -91,4 +86,3 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-![Snake animation](https://github.com/ciamac-da/ciamac-da/blob/output/github-contribution-grid-snake.svg)
