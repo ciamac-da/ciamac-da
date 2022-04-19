@@ -67,12 +67,17 @@
 <br>
 &nbsp;
 
+### My Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ciamac-da&theme=chartreuse-dark&show_icons=true)](https://github.com/ciamac-da/github-readme-stats)
 <br>
+&nbsp;
 
+### My Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciamac-da&theme=chartreuse-dark&show_icons=true)](https://github.com/ciamac-da/github-readme-stats)
 <br>
+<a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Ciamac-da's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciamac-da&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
+### Watch my contribution graph eaten by the snakesnake 🐍
 ![Snake animation](https://github.com/ciamac-da/ciamac-da/blob/output/github-contribution-grid-snake.svg)
 <br>
 
