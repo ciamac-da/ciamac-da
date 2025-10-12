@@ -55,7 +55,8 @@
 **Markup, Templating & Styles**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,scss,styledcomponents,bootstrap,tailwind,mui,pug&perline=12" />
-  <!-- Extras -->
+  <!-- Colored badges for items with visibility issues or missing icons -->
+  <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/XML-0F172A?logo=w3c&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/EJS-6BAF92?logo=ejs&logoColor=white" height="24" />
 </p>
@@ -91,7 +92,8 @@
 
 **Version Control & Collaboration**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,trello,notion&perline=12" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,notion&perline=12" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/Mural-FF4F00?logo=mural&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white" height="24" />
@@ -99,7 +101,8 @@
 
 **DevOps, Hosting & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=nginx,docker,vercel,firebase,netlify,heroku,postman,insomnia,raspberrypi,linux,ubuntu,idea,vscode,atom&perline=12" />
+  <img src="https://skillicons.dev/icons?i=nginx,docker,vercel,firebase,netlify,heroku,postman,raspberrypi,linux,ubuntu,idea,vscode,atom&perline=12" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/Render-2A2A72?logo=render&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/Office%20365-D83B01?logo=microsoftoffice&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white" height="24" />
@@ -107,7 +110,7 @@
 
 **Other**
 <p>
-  <img src="https://skillicons.dev/icons?i=scratch&perline=12" />
+  <img src="https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=white" height="24" />
 </p>
 
 ---
