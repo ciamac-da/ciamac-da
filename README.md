@@ -1,6 +1,6 @@
 <!-- Hero -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=900&center=true&vCenter=true&width=820&lines=Hi+there%2C+I'm+Ciamac+%F0%9F%91%BD;Software+Engineer+in+Germany;Vue+%E2%80%A2+Nuxt+%E2%80%A2+TypeScript+%E2%80%A2+Node.js" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=900&center=true&vCenter=true&width=980&lines=Hi+there%2C+I'm+Ciamac+%F0%9F%91%BD;Software+Engineer+in+Germany;Vue+%E2%80%A2+Nuxt+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Java" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 - 🇩🇪  Software Engineer based in Germany  
 - 🧩  I build useful, beautiful web apps — from rapid prototypes to production systems  
-- 💬  Ask me about **Vue 3, Nuxt, TypeScript, Pinia, JSONForms**  
+- 💬  Ask me about **Vue 3, Nuxt, TypeScript, Pinia, JSONForms, AEM**  
 - 🔗  Portfolio & blog: **[ciamacdavoudi.com](https://ciamacdavoudi.com/)**
 
 ---
@@ -33,48 +33,82 @@
 
 ---
 
+### CodePen Pens
+
+<a href="https://codepen.io/ciamac-da/pens/public">
+  <img alt="CodePen" height="32" src="https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white" />
+</a>
+&nbsp; → Explore my public pens: **https://codepen.io/ciamac-da/pens/public**
+
+<!-- Optional: showcase a few pens with thumbnails (replace PEN_ID with your pen’s ID)
+<p>
+  <a href="https://codepen.io/ciamac-da/pen/PEN_ID">
+    <img src="https://shots.codepen.io/ciamac-da/pen/PEN_ID-512.webp" alt="Pen preview" height="120" />
+  </a>
+</p>
+-->
+
+---
+
 ## 🧰 Tech Stack
 
-<!-- Frontend -->
-**Frontend**
+**Markup, Templating & Styles**
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,ts,js,html,css,tailwind,scss,vite,webpack&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,styledcomponents,bootstrap,tailwind,mui,storybook,pug&perline=12" />
+  <!-- Extras -->
+  <img src="https://img.shields.io/badge/XML-0F172A?logo=w3c&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/EJS-6BAF92?logo=ejs&logoColor=white" height="24" />
 </p>
 
-<!-- Backend & Data -->
-**Backend & Data**
+**JavaScript / TypeScript & Testing**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,firebase&perline=12" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,jquery,jest,vitest&perline=12" />
 </p>
 
-<!-- CMS, DX & Enterprise -->
-**CMS, DX & Enterprise**
+**Frontend Frameworks & Tooling**
 <p>
-  <!-- Storyblok (via shields) -->
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,redux,nextjs,vite,webpack&perline=12" />
+</p>
+
+**Backend, Languages & Runtimes**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,deno&perline=12" />
+  <img src="https://img.shields.io/badge/Oak%20(Deno)-1E293B?logo=deno&logoColor=white" height="24" />
+</p>
+
+**Data & APIs**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,graphql&perline=12" />
+  <img src="https://img.shields.io/badge/JSONForms-2563EB?logo=json&logoColor=white" height="24" />
+</p>
+
+**CMS & Enterprise**
+<p>
   <img src="https://img.shields.io/badge/Storyblok-09B3AF?logo=storyblok&logoColor=white" height="24" />
-  <!-- AEM not on skillicons; using Adobe badge -->
-  <img src="https://img.shields.io/badge/Adobe%20Experience%20Manager-FF0000?logo=adobe&logoColor=white" height="24" />
-  <!-- Other DX -->
-  <img src="https://img.shields.io/badge/Headless%20CMS-0F172A?logo=graphql&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Adobe%20Experience%20Manager%20(AEM)-FF0000?logo=adobe&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" height="24" />
 </p>
 
-**Testing & QA**
+**Version Control & Collaboration**
 <p>
-  <img src="https://skillicons.dev/icons?i=jest,vitest,playwright&perline=12" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,trello,notion&perline=12" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Mural-FF4F00?logo=mural&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white" height="24" />
 </p>
 
-**DevOps & Tools**
+**DevOps, Hosting & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash&perline=12" />
+  <img src="https://skillicons.dev/icons?i=nginx,docker,vercel,firebase,netlify,heroku,postman,insomnia,raspberrypi,linux,ubuntu,idea,vscode,atom&perline=12" />
+  <img src="https://img.shields.io/badge/Render-2A2A72?logo=render&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Office%20365-D83B01?logo=microsoftoffice&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white" height="24" />
 </p>
 
-**Mobile**
+**Other**
 <p>
-  <img src="https://skillicons.dev/icons?i=react&perline=12" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB" height="24" />
+  <img src="https://skillicons.dev/icons?i=scratch&perline=12" />
 </p>
-
-<sub>Highlights reflect your portfolio work: AEM for BMW (DE), Storyblok + Next.js (BMW Foundation, Interone), Vue/Nuxt, React/React Native, GraphQL, Firebase, etc.</sub>
 
 ---
 
@@ -105,7 +139,7 @@
 ### Connect with Me
 
 <a href="https://ciamacdavoudi.com/">
-  <img alt="Website" height="32" src="https://img.shields.io/badge/Website-0A66C2?logo=google-chrome&logoColor=white" />
+  <img alt="Website" height="32" src="https://img.shields.io/badge/Website-4285F4?logo=google-chrome&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/ing-ciamac-davoudi-0a57a31a2/">
@@ -113,7 +147,7 @@
 </a>
 &nbsp;
 <a href="https://www.xing.com/profile/Ciamac_Davoudi/cv">
-  <img alt="Xing" height="32" src="https://img.shields.io/badge/XING-126567?logo=xing&logoColor=white" />
+  <img alt="XING" height="32" src="https://img.shields.io/badge/XING-126567?logo=xing&logoColor=white" />
 </a>
 
 <br/>
