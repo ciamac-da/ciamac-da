@@ -13,9 +13,6 @@
   <a href="https://ciamacdavoudi.com/">
     <img alt="Website" src="https://img.shields.io/website?label=ciamacdavoudi.com&style=for-the-badge&url=https%3A%2F%2Fciamacdavoudi.com%2F">
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=Ciamac12">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ciamac12?color=1DA1F2&logo=twitter&style=for-the-badge">
-  </a>
 </p>
 
 ---
@@ -73,21 +70,12 @@
 [<img align="left" alt="Website" width="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Xing" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
-[<img align="left" alt="Twitter" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="YouTube" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br/>
 <br/>
-
----
-
-### Watch my contribution graph get eaten by a snake 🐍
-![Snake animation](https://github.com/ciamac-da/ciamac-da/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 [website]: https://ciamacdavoudi.com/
-[twitter]: https://twitter.com/Ciamac12
 [linkedin]: https://www.linkedin.com/in/ing-ciamac-davoudi-0a57a31a2/
 [xing]: https://www.xing.com/profile/Ciamac_Davoudi/cv
-[youtube]: https://www.youtube.com/@ciamacdavoudi
