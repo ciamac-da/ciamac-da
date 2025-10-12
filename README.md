@@ -33,11 +33,48 @@
 
 ---
 
-### Tech Stack
+## 🧰 Tech Stack
 
+<!-- Frontend -->
+**Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,html,css,tailwind,webpack,react,redux,nodejs,express,mongodb,git,github,docker,graphql,jest,vite&perline=10" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,ts,js,html,css,tailwind,scss,vite,webpack&perline=12" />
 </p>
+
+<!-- Backend & Data -->
+**Backend & Data**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,firebase&perline=12" />
+</p>
+
+<!-- CMS, DX & Enterprise -->
+**CMS, DX & Enterprise**
+<p>
+  <!-- Storyblok (via shields) -->
+  <img src="https://img.shields.io/badge/Storyblok-09B3AF?logo=storyblok&logoColor=white" height="24" />
+  <!-- AEM not on skillicons; using Adobe badge -->
+  <img src="https://img.shields.io/badge/Adobe%20Experience%20Manager-FF0000?logo=adobe&logoColor=white" height="24" />
+  <!-- Other DX -->
+  <img src="https://img.shields.io/badge/Headless%20CMS-0F172A?logo=graphql&logoColor=white" height="24" />
+</p>
+
+**Testing & QA**
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,vitest,playwright&perline=12" />
+</p>
+
+**DevOps & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash&perline=12" />
+</p>
+
+**Mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=react&perline=12" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB" height="24" />
+</p>
+
+<sub>Highlights reflect your portfolio work: AEM for BMW (DE), Storyblok + Next.js (BMW Foundation, Interone), Vue/Nuxt, React/React Native, GraphQL, Firebase, etc.</sub>
 
 ---
 
@@ -67,9 +104,17 @@
 
 ### Connect with Me
 
-[<img align="left" alt="Website" width="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Xing" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
+<a href="https://ciamacdavoudi.com/">
+  <img alt="Website" height="32" src="https://img.shields.io/badge/Website-0A66C2?logo=google-chrome&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ing-ciamac-davoudi-0a57a31a2/">
+  <img alt="LinkedIn" height="32" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.xing.com/profile/Ciamac_Davoudi/cv">
+  <img alt="Xing" height="32" src="https://img.shields.io/badge/XING-126567?logo=xing&logoColor=white" />
+</a>
 
 <br/>
 <br/>
