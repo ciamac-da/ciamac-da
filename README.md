@@ -54,7 +54,7 @@
 
 **Markup, Templating & Styles**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,scss,styledcomponents,bootstrap,tailwind,mui,storybook,pug&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,styledcomponents,bootstrap,tailwind,mui,pug&perline=12" />
   <!-- Extras -->
   <img src="https://img.shields.io/badge/XML-0F172A?logo=w3c&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/EJS-6BAF92?logo=ejs&logoColor=white" height="24" />
