@@ -1,6 +1,6 @@
 <!-- Hero -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&pause=900&center=true&vCenter=true&color=126E16&weight=700&width=980&lines=Hi+there%2C+I'm+Ciamac+%F0%9F%91%BD;Software+Engineer+in+Germany;Javascript+%E2%80%A2+Vue+%E2%80%A2+Nuxt+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+NextJs" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=900&center=true&vCenter=true&color=126E16&weight=700&width=980&lines=Hi+there%2C+I'm+Ciamac+%F0%9F%91%BD;Software+Engineer+in+Germany;Javascript+%E2%80%A2+Vue+%E2%80%A2+Nuxt+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+NextJs" alt="Typing Animation" />
 </p>
 
 <p align="center">
