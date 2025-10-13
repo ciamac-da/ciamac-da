@@ -19,17 +19,16 @@
 
 ### About Me
 
-- 🇩🇪  Software Engineer based in Germany  
-- 🧩  I build useful, beautiful web apps — from rapid prototypes to production systems  
-- 💬  Ask me about **Vue 3, Nuxt, TypeScript, Pinia, JSONForms, AEM**  
+- 🇩🇪  Software Engineer based in Germany
+- 🧩  I build useful, beautiful web apps — from rapid prototypes to production systems
 - 🔗  Portfolio & blog: **[ciamacdavoudi.com](https://ciamacdavoudi.com/)**
 
 ---
 
 ### Quick Links
 
-- 📌 **Gists:** https://gist.github.com/ciamac-da  
-- 🌐 **Website:** https://ciamacdavoudi.com/  
+- 📌 **Gists:** https://gist.github.com/ciamac-da
+- 🌐 **Website:** https://ciamacdavoudi.com/
 
 ---
 
@@ -40,22 +39,11 @@
 </a>
 &nbsp; → Explore my public pens: **https://codepen.io/ciamac-da/pens/public**
 
-<!-- Optional: showcase a few pens with thumbnails (replace PEN_ID with your pen’s ID)
-<p>
-  <a href="https://codepen.io/ciamac-da/pen/PEN_ID">
-    <img src="https://shots.codepen.io/ciamac-da/pen/PEN_ID-512.webp" alt="Pen preview" height="120" />
-  </a>
-</p>
--->
-
----
-
 ## 🧰 Tech Stack
 
 **Markup, Templating & Styles**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,scss,styledcomponents,bootstrap,tailwind,mui,pug&perline=12" />
-  <!-- Colored badges for items with visibility issues or missing icons -->
   <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/XML-0F172A?logo=w3c&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/EJS-6BAF92?logo=ejs&logoColor=white" height="24" />
