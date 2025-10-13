@@ -26,10 +26,28 @@
 ### Quick Links
 
 - 📌 **Gists:** https://gist.github.com/ciamac-da
+- 🌐 **Website:** https://ciamacdavoudi.com/
+
+### Connect with Me
+
+<a href="https://ciamacdavoudi.com/">
+  <img alt="Website" height="32" src="https://img.shields.io/badge/Website-4285F4?logo=google-chrome&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ing-ciamac-davoudi-0a57a31a2/">
+  <img alt="LinkedIn" height="32" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.xing.com/profile/Ciamac_Davoudi/cv">
+  <img alt="XING" height="32" src="https://img.shields.io/badge/XING-126567?logo=xing&logoColor=white" />
+</a>
+
+<br/>
+
+
 [website]: https://ciamacdavoudi.com/
 [linkedin]: https://www.linkedin.com/in/ing-ciamac-davoudi-0a57a31a2/
 [xing]: https://www.xing.com/profile/Ciamac_Davoudi/cv
-
 
 ---
 
@@ -130,16 +148,4 @@
 
 ---
 
-### Connect with Me
 
-<a href="https://ciamacdavoudi.com/">
-  <img alt="Website" height="32" src="https://img.shields.io/badge/Website-4285F4?logo=google-chrome&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ing-ciamac-davoudi-0a57a31a2/">
-  <img alt="LinkedIn" height="32" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.xing.com/profile/Ciamac_Davoudi/cv">
-  <img alt="XING" height="32" src="https://img.shields.io/badge/XING-126567?logo=xing&logoColor=white" />
-</a>
