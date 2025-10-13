@@ -58,7 +58,7 @@
 <a href="https://codepen.io/ciamac-da/pens/public">
   <img alt="CodePen" height="32" src="https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white" />
 </a>
-&nbsp; → Explore my public pens: **https://codepen.io/ciamac-da/pens/public**
+&nbsp; → **Explore my public pens** : **https://codepen.io/ciamac-da/pens/public**
 
 ---
 
