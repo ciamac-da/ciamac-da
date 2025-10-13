@@ -37,6 +37,8 @@
 </a>
 &nbsp; → Explore my public pens: **https://codepen.io/ciamac-da/pens/public**
 
+---
+
 ## 🧰 Tech Stack
 
 **Markup, Templating & Styles**
@@ -142,7 +144,6 @@
 <br/>
 <br/>
 
----
 
 [website]: https://ciamacdavoudi.com/
 [linkedin]: https://www.linkedin.com/in/ing-ciamac-davoudi-0a57a31a2/
