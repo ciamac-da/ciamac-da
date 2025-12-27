@@ -130,10 +130,9 @@
 
 <p align="center">
   <a href="https://github.com/ciamac-da">
-    <img alt="Ciamac's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ciamac-da&theme=chartreuse-dark&show_icons=true&hide_border=true" />
+    <img alt="Ciamac's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ciamac-da&show_icons=true&hide_border=true" />
   </a>
 </p>
- ![Ciamac's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciamac-da&show_icons=true&hide_border=true&bg_color=00000000)
 
 
 ### Streak Stats
