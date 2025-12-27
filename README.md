@@ -137,10 +137,9 @@
 
 ### Streak Stats
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="Get streak stats at git.io/streak-stats" alt="Ciamac's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ciamac-da&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ciamac-da&theme=soft-green" alt="GitHub Streak" /></a>
 </p>
+
 
 ### Top Languages
 <p align="center">
