@@ -139,7 +139,7 @@
 <p align="center">
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ciamac-da&theme=soft-green" alt="GitHub Streak" /></a>
 </p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ciamac-da&theme=soft-green)](https://git.io/streak-stats)
 
 ### Top Languages
 <p align="center">
