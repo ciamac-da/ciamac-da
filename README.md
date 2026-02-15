@@ -66,7 +66,7 @@
 
 **Markup, Templating & Styles**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,scss,styledcomponents,bootstrap,tailwind,mui,pug&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,styledcomponents,bootstrap,tailwind,mui,figma,pug&perline=12" />
   <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/XML-0F172A?logo=w3c&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/EJS-6BAF92?logo=ejs&logoColor=white" height="24" />
@@ -79,7 +79,7 @@
 
 **Frontend Frameworks & Tooling**
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,redux,nextjs,vite,webpack&perline=12" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,redux,nextjs,gatsby,vite,pinia,webpack&perline=12" />
 </p>
 
 **Backend, Languages & Runtimes**
@@ -103,7 +103,7 @@
 
 **Version Control & Collaboration**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,notion&perline=12" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,azure,notion,codepen&perline=12" />
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/Mural-FF4F00?logo=mural&logoColor=white" height="24" />
